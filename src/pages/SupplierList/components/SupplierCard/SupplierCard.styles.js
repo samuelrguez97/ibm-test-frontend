@@ -4,7 +4,7 @@ const useStyles = makeStyles({
   root: {
     maxWidth: 445,
   },
-  mediContainer: {
+  mediaContainer: {
     padding: 20,
   },
   media: {

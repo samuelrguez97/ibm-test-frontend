@@ -71,7 +71,7 @@ const SupplierDetailContainer = (props) => {
   return (
     <section>
       <div className={classes.titleContainer}>
-        Detalle del provedor:{" "}
+        Detalle del proveedor:{" "}
         <span className={classes.titleSupplier}>{supplierDetail?.name}</span>
       </div>
       <Grid

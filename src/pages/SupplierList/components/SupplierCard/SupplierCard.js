@@ -28,7 +28,7 @@ const SupplierCard = (props) => {
     <Card className={classes.root} onClick={handleClick}>
       <CardActionArea>
         <CardMedia>
-          <div className={classes.mediContainer}>
+          <div className={classes.mediaContainer}>
             <img
               className={classes.media}
               src={`/images/${supplier?.logo}`}
